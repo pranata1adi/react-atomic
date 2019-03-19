@@ -47,7 +47,7 @@ function ComplexGrid(props) {
                     Ketemulah, sebelum ketemu itu dilarang
                 </Typography>
                 <Typography gutterBottom>Loc: Cilandak Town Square</Typography>
-                <Typography gutterBottom>Job: Tukang pamer Absolut</Typography>
+                <Typography gutterBottom>Job: Haha</Typography>
                 <Typography gutterBottom>Org: Adi Pranata</Typography>
               </Grid>
               <Grid item>

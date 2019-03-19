@@ -35,7 +35,7 @@ function SimpleCard(props) {
             14 Maret 2019
         </Typography>
         <Typography component="p">
-            Nganu
+            Haha
           <br />
           {'----'}
         </Typography>
@@ -43,7 +43,7 @@ function SimpleCard(props) {
            Ketemulah, sebelum ketemu itu dilarang
         </Typography>
         <Typography gutterBottom variant="subtitle1">
-            Nganu nganu nganu
+            Haha
         </Typography>
       </CardContent>
     </Card>
